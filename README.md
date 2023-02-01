@@ -10,3 +10,12 @@ Wenn man in mehreren Fällen, die gleiche Folge an Zufallszahlen benötigt ist e
 
 Was macht Random.Range?
 Random.Range gibt ein Intervall an, in dem sich die Zufallszahl befinden muss.
+
+<br></br>
+Dev. Platform:
+
+Unity Version: 2020.3.18f1
+
+VS Version: Visual Studio 2019
+
+Betriebssystem: Windows 11
